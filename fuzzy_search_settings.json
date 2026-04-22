@@ -1321,7 +1321,8 @@
             "dreamfestival",
             "限定",
             "期间限定",
-            "dfes"
+            "dfes",
+            "梦限"
         ],
         "kirafes": [
             "fes限定",
@@ -1332,7 +1333,8 @@
             "kiramekitival",
             "限定",
             "期间限定",
-            "kfes"
+            "kfes",
+            "闪限"
         ],
         "birthday": [
             "生日",
