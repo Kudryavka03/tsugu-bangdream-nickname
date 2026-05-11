@@ -1,8 +1,7 @@
 {
     "fuzzySearchPolicy":{
         "disableBandCharaIdLimit":[
-            "秋妈妈",
-            "ars"
+
         ]
     },
     "characterId": {
